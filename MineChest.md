@@ -29,11 +29,21 @@ A oficina abordará o desenvolvimento do front e do backend do jogo, com as segu
 	
 <p>
 <b style="font-weight: bold;"><a href="https://e2pc.github.io/ProjectPage/Encontro1">1° Encontro</a>: 14/09:<br></b>
-	Explicar o projeto a ser desenvolvido<br>
-	Introduzir ao python e o frame work Django e sua usabilidade com python (usabilidade na resolução dos problemas)<br>
-	Explicar sobre sua arquitetura (MVT -  Model View Template)<br>
-	Mostrando sobre os arquivos de configurações(settings, urls, views)<br>
-	Criar o projeto Base e rodar no servidor local<br>
+	Introdução ao Python, ao framework Django, a arquitetura MVT e configurações do projeto
+	
+	
+	--- Mover para a página do 1º encontro: ---
+	
+	Qual a ideia do Projeto Minechest?<br>
+	Introdução ao Python 
+	(Para saber mais: link recomendado?) <br>
+	Introdução ao framework Django e sua usabilidade com Python (para a resolução dos problemas)
+	(Para saber mais: link recomendado?)<br>
+	O que é a arquitetura MVT (Model View Template)?
+	(Para saber mais: link recomendado?)<br>
+	Configuração dos arquivos do projeto (settings, urls, views)
+	(Para saber mais: link recomendado?)<br>
+	Criação do projeto Base e execução no servidor local<br>
 </p>
 	
 <p>
